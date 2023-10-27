@@ -1,0 +1,16 @@
+2023-09-04 21:42:41 [INFO] Question: which two gfeatures have the highest correlations?
+2023-09-04 21:42:41 [INFO] Running PandasAI with openai LLM...
+2023-09-04 21:42:41 [INFO] Prompt ID: 6b3f2b42-9153-4fe0-9bc7-abb515ad1558
+2023-09-04 21:42:42 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-09-04 21:42:55 [INFO] Question: which two gfeatures have the highest correlations?
+2023-09-04 21:42:55 [INFO] Running PandasAI with openai LLM...
+2023-09-04 21:42:55 [INFO] Prompt ID: 17be9c08-23ac-49aa-a5be-13a3f997b243
+2023-09-04 21:42:55 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-09-05 11:29:27 [INFO] Question: which two gfeatures have the highest correlations?
+2023-09-05 11:29:27 [INFO] Running PandasAI with openai LLM...
+2023-09-05 11:29:27 [INFO] Prompt ID: 42b1f89d-6ea4-4139-9f6e-430efb9d540f
+2023-09-05 11:29:27 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-09-08 12:50:33 [INFO] Question: which two gfeatures have the highest correlations?
+2023-09-08 12:50:33 [INFO] Running PandasAI with openai LLM...
+2023-09-08 12:50:33 [INFO] Prompt ID: 30a9144f-7871-40b9-ab8f-90c0f8047204
+2023-09-08 12:50:33 [INFO] error_code=invalid_api_key error_message='Incorrect API key provided: sk-eM7iF***************************************hEsR. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
